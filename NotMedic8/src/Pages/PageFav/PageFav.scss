@@ -1,0 +1,13 @@
+.page-fav__wrapper{
+  display: flex;
+  // flex-wrap: wrap;
+  flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.page-fav__title{
+  margin-top: 170px;
+  background-color: #f6f5f5;
+  padding: 30px 100px;
+  border-radius: 14px;
+}

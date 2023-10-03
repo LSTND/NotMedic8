@@ -1,0 +1,66 @@
+.header {
+  background: #f6f5f5;
+}
+.container {
+  max-width: 1366px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+
+.header__logo {
+  text-decoration: none;
+  color: black;
+  font-size: 50px;
+  line-height: 60px;
+  font-weight: 500;
+  margin: auto;
+}
+
+.header__actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30px;
+  position: relative;
+}
+.icon-bag {
+  position: relative;
+
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 1px;
+}
+.count {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  background-color: #000;
+  border-radius: 50%;
+  color: #fff;
+  font-weight: 700;
+  line-height: 16px;
+  font-size: 12px;
+  text-align: center;
+}
+.count__bag {
+  display: block;
+  right: 6px;
+  top: 5px;
+}
+.icon-favorite {
+  position: relative;
+}
+.count__fav {
+  display: block;
+  right: -2px;
+  top: 4px;
+}
