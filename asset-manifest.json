@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/NotMedic8/static/css/main.5f2149c2.css",
-    "main.js": "/NotMedic8/static/js/main.f794c63d.js",
+    "main.js": "/NotMedic8/static/js/main.e6ab99bb.js",
     "static/js/787.e82ad651.chunk.js": "/NotMedic8/static/js/787.e82ad651.chunk.js",
     "static/media/bag.svg": "/NotMedic8/static/media/bag.d9d10fad8e1866e5932455eb25ae7d44.svg",
     "index.html": "/NotMedic8/index.html",
     "static/media/favorite.svg": "/NotMedic8/static/media/favorite.8cb494cf376d0f881112fca155672f0e.svg",
     "main.5f2149c2.css.map": "/NotMedic8/static/css/main.5f2149c2.css.map",
-    "main.f794c63d.js.map": "/NotMedic8/static/js/main.f794c63d.js.map",
+    "main.e6ab99bb.js.map": "/NotMedic8/static/js/main.e6ab99bb.js.map",
     "787.e82ad651.chunk.js.map": "/NotMedic8/static/js/787.e82ad651.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f2149c2.css",
-    "static/js/main.f794c63d.js"
+    "static/js/main.e6ab99bb.js"
   ]
 }
