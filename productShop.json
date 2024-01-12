@@ -3,7 +3,7 @@
       "id": 1,
       "name": "MEDIK8 COPPER PCA PEPTIDES",
       "price": "3 444 UAH",
-      "img": "/product1.webp",
+      "img": "./product.img/product1.webp",
       "article": "",
       "color": "",
       "appointment": "Antioxidant effect; Anti-age"
@@ -13,7 +13,7 @@
       "id": 2,
       "name": "MEDIK8 CRYSTAL RETINAL® CERAMIDE EYE ",
       "price": "3 485 UAH",
-      "img": "https://medik8.com.ua/upload/iblock/1e6/l4zrga720ev5fjypuslsjd1tz8lb9t21.jpg",
+      "img": "./product.img/product2.webp",
       "article": "",
       "color": "",
       "appointment": "Anti-aging; Smoothing"
@@ -22,7 +22,7 @@
       "id": 3,
       "name": "MEDIK8 R-RETINOATE® DAY & NIGHT",
       "price": "7 462 UAH",
-      "img": "https://medik8.com.ua/upload/iblock/bcc/rpm4m3c7i9ngimnhps4hsjvyig6npm4u.jpg",
+      "img": "./product.img/product3.webp",
       "article": "",
       "color": "",
       "appointment": "Feeding"
@@ -31,7 +31,7 @@
       "id": 4,
       "name": "MEDIK8 C-Tetra DAY Cream ",
       "price": "1 729 UAH",
-      "img": "https://medik8.com.ua/upload/iblock/5cb/1irpxwlflewv7p75ywln905j8s24hze0.jpg",
+      "img": "./product.img/product4.webp",
       "article": "",
       "color": "",
       "appointment": "Moisturizin; Even tone"
@@ -40,7 +40,7 @@
       "id": 5,
       "name": "MEDIK8 C-TETRA® TOTAL LUXE",
       "price": "3387 UAH",
-      "img": "https://medik8.com.ua/upload/iblock/de0/zqq4pk6hgi0bx34hyrcr0uen0zfqx38g.jpg",
+      "img": "./product.img/product5.webp",
       "article": "",
       "color": "",
       "appointment": "Intensive Antioxidant Syrup"
@@ -49,7 +49,7 @@
       "id": 6,
       "name": "MEDIK8 MICELLAR MOUSSE™",
       "price": "1312 UAH",
-      "img": "https://medik8.com.ua/upload/iblock/bfc/kyfitnk4w8nwtnu8f0qjea5q02t03pa9.jpg",
+      "img": "./product.img/product6.webp",
       "article": "",
       "color": "",
       "appointment": "Cleansing; Toning"
@@ -58,7 +58,7 @@
       "id": 7,
       "name": "MEDIK8 LIQUID PEPTIDES™",
       "price": "2542 UAH",
-      "img": "https://medik8.com.ua/upload/iblock/bff/94rx5ask46rvaoll9ohz12kgvu7sktw8.jpg",
+      "img": "./product.img/product7.webp",
       "article": "",
       "color": "",
       "appointment": "Hydration"
@@ -67,7 +67,7 @@
       "id": 8,
       "name": "MEDIK8 ADVANCED DAY TOTAL PROTECT™",
       "price": "3157 UAH",
-      "img": "https://medik8.com.ua/upload/iblock/967/5f8sy0kubf06czohdu2r7gkpg68h1dy6.jpg",
+      "img": "./product.img/product8.webp",
       "article": "",
       "color": "",
       "appointment": "Anti-age"
@@ -76,7 +76,7 @@
       "id": 9,
       "name": "MEDIK8 HYDR8 CREAM B5™",
       "price": "2378 UAH",
-      "img": "https://medik8.com.ua/upload/iblock/b2a/09n9ebl6yqsybilem6kdhj7uvjckiagc.jpg",
+      "img": "./product.img/product9.webp",
       "article": "",
       "color": "",
       "appointment": "Hydration"
@@ -85,7 +85,7 @@
       "id": 10,
       "name": "MEDIK8 CSA EYE KIT NIGHT",
       "price": "3772 UAH",
-      "img": "https://medik8.com.ua/upload/iblock/1cc/6d0n1n97ke3rs33j37271fdt5eva7yr5.jpg",
+      "img": "./product.img/product10.webp",
       "article": "",
       "color": "",
       "appointment": "Toning; Sun protection"
@@ -94,7 +94,7 @@
       "id": 11,
       "name": "MEDIK8 PORE MINIMISING TONIC™",
       "price": "2173 UAH",
-      "img": "https://medik8.com.ua/upload/iblock/179/t4rndlscjvhr1wdvl1tqs0j9b57eon04.jpg",
+      "img": "./product.img/product11.webp",
       "article": "",
       "color": "",
       "appointment": "Narrowing of pores"
@@ -103,7 +103,7 @@
       "id": 12,
       "name": "MEDIK8 PORE CLEANSE GEL™ INTENSE",
       "price": "1271 UAH",
-      "img": "https://medik8.com.ua/upload/iblock/122/122410c8cf3c682d84169d17f77b77e2.jpg",
+      "img": "./product.img/product12.webp",
       "article": "",
       "color": "",
       "appointment": "Intensive cleansing"
